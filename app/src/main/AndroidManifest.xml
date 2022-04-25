@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.jiwon.myapplication">
+    package="com.jiwon.android_ncnn_ml">
 
     <application
         android:allowBackup="true"
